@@ -1,6 +1,7 @@
 # Description
 
 This repository contains data collection, preprossing and part of the Wiki talk page analysis.
+All Python codes are written in Python 2.7
 
 ## data 
 
